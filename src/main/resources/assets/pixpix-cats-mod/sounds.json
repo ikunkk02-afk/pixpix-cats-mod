@@ -1,0 +1,22 @@
+{
+  "audio_one": {
+    "sounds": ["pixpix-cats-mod:audio_one"]
+  },
+  "audio_two": {
+    "sounds": ["pixpix-cats-mod:audio_two"]
+  },
+  "audio_three": {
+    "sounds": ["pixpix-cats-mod:audio_three"]
+  },
+  "baby_dont_cry": {
+    "sounds": ["pixpix-cats-mod:baby_dont_cry"],
+    "stream": true
+  },
+  "nian_zhang_shi": {
+    "sounds": ["pixpix-cats-mod:nian_zhang_shi"],
+    "stream": true
+  },
+  "zhang_talk": {
+    "sounds": ["pixpix-cats-mod:zhang_talk"]
+  }
+}
