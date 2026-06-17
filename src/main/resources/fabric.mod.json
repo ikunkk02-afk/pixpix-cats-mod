@@ -2,16 +2,14 @@
 	"schemaVersion": 1,
 	"id": "pixpix-cats-mod",
 	"version": "${version}",
-	"name": "pixpix-cats mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
-	"authors": [
-		"Me!"
-	],
+	"name": "PixPix Cats Mod",
+	"description": "一只充满梗文化的猫咪模组 — 曾经的王、张雪峰老师、巧乐兹雪碧超速模式",
+	"authors": ["ShouYun"],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/ikunkk02-afk/pixpix-cats-mod",
+		"sources": "https://github.com/ikunkk02-afk/pixpix-cats-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/pixpix-cats-mod/icon.png",
 	"environment": "*",
 	"entrypoints": {
