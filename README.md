@@ -1,9 +1,44 @@
-# pixpix-cats mod
+# PixPix Cats Mod 🐱👑
 
-## Setup
+一个充满梗文化的 Minecraft Fabric 模组，让你在游戏中召唤"曾经的王"和"张雪峰老师"。
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## 模组内容
 
-## License
+### 曾经的王 (The Once King)
+- **王之召唤** — 手持丢出，落地粒子爆炸 + EXO《Baby, Don't Cry》BGM，召唤曾经的王
+- **配方** — 4金锭 + 2钻石 + 2末影珍珠
+- 右键曾经的王进行交易，获得巧乐兹或雪碧
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### 张雪峰老师
+- 将巧乐兹或雪碧**丢入水中**，雷劈 + 炫酷粒子召唤张雪峰老师
+- 张老师有智能 AI，会走路、看人、随机播放专属语音
+- 右键张老师交易，获得巧乐兹或雪碧
+
+### 超速模式
+- 吃下巧乐兹或雪碧获得 **1分钟超人模式**：
+  - 移动速度 10 级
+  - 撞碎前方方块（绝不破坏脚下）
+  - 撞飞周围生物（末影龙除外）
+  - BGM 跟随播放
+- 退出存档自动清除效果，不会跨存档继承
+
+### 小猫控制
+- **H 键** — 赶走猫咪
+- **J 键** — 叫猫咪过来（带爱心粒子）
+- **Z 键** — 猫咪跳舞（连跳 + ❤️粒子）
+
+## 安装
+
+1. 下载最新版 `pixpix-cats-mod-1.0.0.jar`
+2. 放入 `.minecraft/mods/` 文件夹
+3. 需要 Fabric Loader + Fabric API
+
+## 兼容性
+
+- Minecraft 1.21.1
+- Fabric Loader >= 0.19.3
+- Java 21+
+
+## 协议
+
+MIT License
